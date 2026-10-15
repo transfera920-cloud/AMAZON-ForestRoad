@@ -1,0 +1,6 @@
+{
+  "name": "台灣林道通行狀況資料庫 - 亞馬遜國家山岳協會",
+  "description": "亞馬遜國家山岳協會專屬台灣林道即時路況查詢平台，收錄全台林道開放狀態、車行里程、GPX軌跡下載、海拔爬升與山區留守單安全工具。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
